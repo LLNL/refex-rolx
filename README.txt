@@ -1,3 +1,5 @@
+# ReFeX / RolX
+
 ReFeX Source Files:
 AttributedGraph.java
 AttributedLink.java
@@ -48,3 +50,12 @@ out-ids.txt: each line is the nodeID for the corresponding row in out-nodeRoles
 
 Notes:
 For descriptions of the feature naming convention, see Egonet.java.
+
+Release
+-------
+
+ReFeX / RolX is released under an LGPL license.  For more details see the
+LICENSE file.
+
+ReFeX: ``LLNL-CODE-665875``
+RolX: ``LLNL-CODE-665876``
