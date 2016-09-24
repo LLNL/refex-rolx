@@ -29,9 +29,6 @@ run_refex_rolx.sh
 sample-data
 README.txt
 
-
-
-
 (1) run_refex_rolx.sh calls the GenerateFeatures class to generate
 features when the set of features is unknown.  If the set of features
 is known, then you need to use CalculateFeatures class (run_fixed.sh
@@ -48,11 +45,11 @@ out-roleFeatures.txt: role-by-feature matrix
 out-ids.txt: each line is the nodeID for the corresponding row in out-nodeRoles
 
 
-Notes:
+## Notes
+
 For descriptions of the feature naming convention, see Egonet.java.
 
-Release
--------
+## Release
 
 ReFeX / RolX is released under an LGPL license.  For more details see the
 LICENSE file.

@@ -23,4 +23,3 @@ classes: $(SRCS:.java=.class)
 
 clean:
 	$(RM) *.class
-
